@@ -1,7 +1,7 @@
 # I survived series
 01 I Survived the Sinking of the Titanic, 1912 (March 2010)    2018-06-24
 02 I Survived the Shark Attacks of 1916 (August 2010)    2018-06-26
-03 I Survived Hurricane Katrina, 2005 (March 2011)
+03 I Survived Hurricane Katrina, 2005 (March 2011)    2018-06-29
 04 I Survived the Bombing of Pearl Harbor, 1941 (October 2011)
 05 I Survived the San Francisco Earthquake, 1906 (February 2012)
 06 I Survived the Attacks of September 11, 2001 (July 2012)
