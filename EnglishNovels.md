@@ -1,19 +1,19 @@
 # I survived series
-01 I Survived the Sinking of the Titanic, 1912 (March 2010)    2018-06-24
-02 I Survived the Shark Attacks of 1916 (August 2010)    2018-06-26
-03 I Survived Hurricane Katrina, 2005 (March 2011)    2018-06-29
-04 I Survived the Bombing of Pearl Harbor, 1941 (October 2011)    2018-06-30
-05 I Survived the San Francisco Earthquake, 1906 (February 2012)    2018-07-01
-06 I Survived the Attacks of September 11, 2001 (July 2012)    2018-07-05
-07 I Survived the Battle of Gettysburg, 1863 (February 2013)
-08 I Survived the Japanese Tsunami, 2011 (September 2013)
-09 I Survived the Nazi Invasion, 1944 (February 2014)
-10 I Survived the Destruction of Pompeii, A.D. 79 (August 2014)
-11 I Survived the Great Chicago Fire, 1871 (February 2015)
-12 I Survived the Joplin Tornado, 2011 (August 2015)
-13 I Survived the Hindenburg Disaster, 1937 (Feb 23, 2016)
-14 I Survived the Eruption of Mount St. Helens, 1980 (Aug 30, 2016)
-15 I Survived the American Revolution, 1776 (August 29, 2017)
+1. I Survived the Sinking of the Titanic, 1912 (March 2010)    2018-06-24
+2. I Survived the Shark Attacks of 1916 (August 2010)    2018-06-26
+3. I Survived Hurricane Katrina, 2005 (March 2011)    2018-06-29
+4. I Survived the Bombing of Pearl Harbor, 1941 (October 2011)    2018-06-30
+5. I Survived the San Francisco Earthquake, 1906 (February 2012)    2018-07-01
+6. I Survived the Attacks of September 11, 2001 (July 2012)    2018-07-05
+7. I Survived the Battle of Gettysburg, 1863 (February 2013)   2018-07-09
+8. I Survived the Japanese Tsunami, 2011 (September 2013)
+9. I Survived the Nazi Invasion, 1944 (February 2014)
+10. I Survived the Destruction of Pompeii, A.D. 79 (August 2014)
+11. I Survived the Great Chicago Fire, 1871 (February 2015)
+12. I Survived the Joplin Tornado, 2011 (August 2015)
+13. I Survived the Hindenburg Disaster, 1937 (Feb 23, 2016)
+14. I Survived the Eruption of Mount St. Helens, 1980 (Aug 30, 2016)
+15. I Survived the American Revolution, 1776 (August 29, 2017)
 
 # A to Z Mysteries    
 1. The Absent Author    2018-04-29
