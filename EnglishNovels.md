@@ -6,7 +6,7 @@
 5. I Survived the San Francisco Earthquake, 1906 (February 2012), 2018-07-01
 6. I Survived the Attacks of September 11, 2001 (July 2012), 2018-07-05
 7. I Survived the Battle of Gettysburg, 1863 (February 2013), 2018-07-09
-8. I Survived the Japanese Tsunami, 2011 (September 2013)
+8. I Survived the Japanese Tsunami, 2011 (September 2013), 2018-07-22
 9. I Survived the Nazi Invasion, 1944 (February 2014)
 10. I Survived the Destruction of Pompeii, A.D. 79 (August 2014)
 11. I Survived the Great Chicago Fire, 1871 (February 2015)
